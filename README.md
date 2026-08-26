@@ -274,13 +274,9 @@ The project can be further enhanced with:
 ⚡ Automated data ingestion pipelines
 📸 Dashboard Preview
 
-Add screenshots of the completed dashboard here.
-
-For example:
+## 📸 Dashboard Preview
 
 ![Hospital Patient Analytics Dashboard](screenshots/dashboard.png)
-
-A screenshot helps visitors understand the project immediately without opening the application.
 
 🔐 Security
 
